@@ -121,7 +121,22 @@ This structure enables efficient BI queries, aggregations, and reporting.
 - Fine-grained RBAC on catalogs, schemas, and tables
 - External locations mapped to ADLS containers
 
+
 ---
+
+## 🖼️ End-to-End Pipeline Overview
+
+Below are snapshots of the complete Azure Databricks Lakehouse pipeline, showcasing  
+data ingestion, transformation, governance, and analytics layers.
+
+### 🔹 End - To -End Pipeline
+![End-to-End Pipeline Overview](Snap/1.png)
+
+### 🔹 Pipeline Flow – High Level
+![Medallion Pipeline Execution](Snaps/2.png)
+
+---
+
 
 ## 📈 What This Project Demonstrates
 
