@@ -130,7 +130,7 @@ Below are snapshots of the complete Azure Databricks Lakehouse pipeline, showcas
 data ingestion, transformation, governance, and analytics layers.
 
 ### 🔹 End - To -End Pipeline
-![End-to-End Pipeline Overview](Snap/1.png)
+![End-to-End Pipeline Overview](Snaps/1.png)
 
 ### 🔹 Pipeline Flow – High Level
 ![Medallion Pipeline Execution](Snaps/2.png)
