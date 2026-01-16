@@ -144,14 +144,13 @@ data ingestion, transformation, governance, and analytics layers.
 - ✅ Real-world ingestion and transformation patterns  
 - ✅ Strong analytics data modeling (Star Schema)  
 - ✅ Enterprise governance and security practices  
-- ✅ Interview-ready, production-aligned implementation  
 
 ---
 
 ## 👤 Author
 
 **Akshat**  
-Data Engineer | Azure Databricks | PySpark | Lakehouse Architect  
+Data Engineer | Freelance MERN and React Native Developer  
 
 If you find this project useful, feel free to ⭐ the repository or connect!
 
