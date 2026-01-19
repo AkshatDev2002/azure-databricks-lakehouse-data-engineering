@@ -2,9 +2,6 @@
 
 A **production-grade Azure Databricks Lakehouse project** demonstrating modern data engineering practices using **Unity Catalog, Medallion Architecture, Star Schema modeling, Structured Streaming**, and **Slowly Changing Dimensions (SCD)**.
 
-🔗 **GitHub Repository:**  
-👉 https://github.com/AkshatDev2002/azure-databricks-lakehouse-data-engineering
-
 ---
 
 ## 🧠 Project Overview
